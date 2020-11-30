@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorText">#7B52C6</color>
+    <color name="colorBackgroundAgeText">#5766C2</color>
+    <color name="colorForSmallText">#363635</color>
+    <color name="colorBackgroundForButton">#673AB7</color>
+</resources>
